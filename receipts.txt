@@ -1,0 +1,125 @@
+==========| Receipt 1
+-----| Items
+0. Pepsi R 15.0
+
+
+Total: R R 15.0
+Amount paid: R R 15.0
+Change: R R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 2
+-----| Items
+0. Creme Soda R 16.0
+1. Pepsi R 15.0
+
+
+Total: R R 31.0
+Amount paid: R R 35.0
+Change: R R 4.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 1
+-----| Items
+0. Russian & Egg Kota R 35.0
+
+
+Total: R 35.0
+Amount paid: R 40.0
+Change: R 5.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 1
+-----| Items
+0. Russian & Egg Kota R 35.0
+1. Full house R 40.0
+
+
+Total: R 75.0
+Amount paid: R 0.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 1
+-----| Items
+0. Russian & Egg Kota R 35.0
+0. Russian & Egg Kota R 35.0
+
+
+Total: R 70.0
+Amount paid: R 70.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 2
+-----| Items
+0. Creme Soda R 16.0
+1. Russian & Egg Kota R 35.0
+
+
+Total: R 51.0
+Amount paid: R 0.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 3
+-----| Items
+0. Russian & Egg Kota R 35.0
+
+
+Total: R 35.0
+Amount paid: R 35.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 4
+-----| Items
+0. Russian & Egg Kota R 35.0
+
+
+Total: R 35.0
+Amount paid: R 0.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 1
+-----| Items
+0. Pepsi R 15.0
+1. Russian & Egg Kota R 35.0
+
+
+Total: R 50.0
+Amount paid: R 50.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
+==========| Receipt 2
+-----| Items
+0. Russian & Egg Kota R 35.0
+
+
+Total: R 35.0
+Amount paid: R 0.0
+Change: R 0.0
+
+Date: 14/05/14
+====================|
+
