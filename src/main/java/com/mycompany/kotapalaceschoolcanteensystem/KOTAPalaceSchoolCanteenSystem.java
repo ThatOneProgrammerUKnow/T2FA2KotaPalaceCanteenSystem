@@ -53,9 +53,22 @@ public class KOTAPalaceSchoolCanteenSystem {
                                4. View all saved Receipts
                                """);
             
-            userInput = input.nextByte();
-            input.nextLine();
+            userInput = 0;
+            boolean validInput = false;
+            
+            while (!validInput) {
+                try {
+                     userInput = input.nextByte();
+                     validInput = true;
+                } catch (InputMismatchException e){
+                    System.err.println("Please enter a valid number");
+                } finally {
+                    input.nextLine();
+                }
+            }
+            
             switch (userInput) {
+
                 case 1 -> { //----->>> User exits
                     systemRunning = false;
                 }
@@ -143,9 +156,6 @@ public class KOTAPalaceSchoolCanteenSystem {
                     System.out.println("===============| All saved receipts |===============");
                     System.out.println(ReceiptManager.getLoadedReceipts().toString());
                     System.out.println();
-                }
-                default-> { //----->>> If none of the above are true
-                    System.err.println("Please choose a valid option");
                 }
             }
             System.out.println("");
